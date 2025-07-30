@@ -1,1 +1,1 @@
-A small project to learn how to use HTML
+A small project to learn HTML
